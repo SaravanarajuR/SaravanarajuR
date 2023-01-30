@@ -4,7 +4,7 @@
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=SaravanarajuR-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="saravana-pw" /> 
+    alt="saravana" /> 
   </p>
 
 <br>
@@ -24,13 +24,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saravnar/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="linkdin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/saravana._______/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="instagram" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/saravanarajur100" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>     
+      alt="hacker-rank" height="30" width="40" /></a>     
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
