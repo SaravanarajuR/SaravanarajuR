@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **saravanarajur100@gmail.com**
 
-- ⚡ Fun fact :- Music is a real companion.
+- ⚡ Fun fact :- is a real companion.
+
+- 🎮🕹️ Gamer......
 
 <br>
 
