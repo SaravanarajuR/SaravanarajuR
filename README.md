@@ -54,6 +54,15 @@
       src="https://camo.githubusercontent.com/c2c238f2e4ff7244eb4b9cfd09b47e4d3a8049389cad2751d8678579eaf3eedf/68747470733a2f2f6e6f6465692e636f2f6e706d2f6d6f6e676f6f73652e706e67"
       alt="mongoose" width="80" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></p>
 <br>
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-shaikh575&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
