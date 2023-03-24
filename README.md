@@ -37,13 +37,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) <br>![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></p>
-<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://camo.githubusercontent.com/c2c238f2e4ff7244eb4b9cfd09b47e4d3a8049389cad2751d8678579eaf3eedf/68747470733a2f2f6e6f6465692e636f2f6e706d2f6d6f6e676f6f73652e706e67"
-      alt="mongoose" width="80" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></p>
+ <hr>
 <br>
 <hr>
 <p align="center">
