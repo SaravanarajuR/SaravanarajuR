@@ -38,9 +38,15 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanarajur&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanarajur" alt="saravanarajur" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanarajur&show_icons=true&locale=en" alt="saravanarajur" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanarajur&" alt="saravanarajur" /></p>
+<br>
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanarajur" alt="saravanarajur" /></a> </p>
+<br>
