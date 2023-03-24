@@ -29,11 +29,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="nodejs" /> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" /> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="reactnative" /> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="c" /> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="python" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> <a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" alt="eslint" /> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="tensorflow" /> </a>
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
-  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel badge"></p>
+ <img src="https://img.shields.io/badge/c++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanarajur&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
 
