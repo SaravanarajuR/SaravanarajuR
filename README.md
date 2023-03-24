@@ -39,9 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanarajur&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
 <br>
-
-
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanarajur&show_icons=true&locale=en" alt="saravanarajur" /></p>
 <br>
 
