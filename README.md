@@ -21,8 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+<a href="https://linkedin.com/in/Saravana raju R" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+<a href="https://instagram.com/saravana._______/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
+
 
 
 
