@@ -49,7 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&locale=en" alt="saravanarajur" /></p>
 <br>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&" alt="saravanarajur" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&theme=dark&hide_border=true" alt="GitHub Streak" />
 <br>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saravanarajur" alt="saravanarajur" /></a> </p>
