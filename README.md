@@ -11,7 +11,7 @@
 
 - 🔍 Find my projects here - https://replit.com/@SaravanaRajuR
 
-- 💓 I also love 🎮 Gaming...
+- 💓 .... 🎮 Gamer
 
 - 💬 Ask me about **react, node, Javascript**
 
