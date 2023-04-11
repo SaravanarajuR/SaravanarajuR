@@ -46,7 +46,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
 <br>
 <hr>
-<img alt="GitHub Streak" src="https://img.shields.io/github/streak-stats/SaravanarajuR?style=flat-square&label=Streak&logo=GitHub&logoColor=white&color=2ea44f">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaravanarajuR&theme=dark)](https://git.io/streak-stats)
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&locale=en" alt="saravanarajur" /></p>
 <br>
