@@ -52,6 +52,40 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&theme=dark&hide_border=true" alt="GitHub Streak" />
 <br>
 <hr>
-<div style="overflow: hidden; width: 100%;"><iframe src="https://github.com/users/SaravanarajuR/contributions?to=2023-04-12&amp;embed=1&amp;grid=1&amp;limit=31&amp;max=365&amp;size=large&amp;date_format=M%20j%5B%2C%20Y%5D" style="border: none; width: 100%; height: 180px;"></iframe></div>
+<body>
+  <div id="streak"></div>
+</body>
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saravanarajur" alt="saravanarajur" /></a> </p>
 <br>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      var username = "YOUR_USERNAME";
+      var api_url = "https://api.github.com/users/" + SaravanarajuR + "/stats/commit_activity";
+
+      $.getJSON(api_url, function(data) {
+        var streak = getStreak(data);
+        $("#streak").html(streak);
+      });
+    });
+
+    function getStreak(data) {
+      var today = new Date();
+      var streak = 0;
+      
+      for (var i = data.length - 1; i >= 0; i--) {
+        var date = new Date(data[i].week * 1000);
+        
+        if (date.getTime() < today.getTime() - 24 * 60 * 60 * 1000) {
+          break;
+        }
+        
+        streak += data[i].total;
+      }
+      
+      return streak;
+    }
+  </script>
+</head>
