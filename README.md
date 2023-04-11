@@ -46,46 +46,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
 <br>
 <hr>
+<img alt="GitHub Streak" src="https://img.shields.io/github/streak-stats/SaravanarajuR?style=flat-square&label=Streak&logo=GitHub&logoColor=white&color=2ea44f">
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&locale=en" alt="saravanarajur" /></p>
 <br>
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&theme=dark&hide_border=true" alt="GitHub Streak" />
 <br>
-<hr>
-<body>
-  <div id="streak"></div>
-</body>
-<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saravanarajur" alt="saravanarajur" /></a> </p>
 <br>
-<head>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script>
-    $(document).ready(function() {
-      var username = "YOUR_USERNAME";
-      var api_url = "https://api.github.com/users/" + SaravanarajuR + "/stats/commit_activity";
-
-      $.getJSON(api_url, function(data) {
-        var streak = getStreak(data);
-        $("#streak").html(streak);
-      });
-    });
-
-    function getStreak(data) {
-      var today = new Date();
-      var streak = 0;
-      
-      for (var i = data.length - 1; i >= 0; i--) {
-        var date = new Date(data[i].week * 1000);
-        
-        if (date.getTime() < today.getTime() - 24 * 60 * 60 * 1000) {
-          break;
-        }
-        
-        streak += data[i].total;
-      }
-      
-      return streak;
-    }
-  </script>
-</head>
