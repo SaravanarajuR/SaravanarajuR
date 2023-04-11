@@ -45,10 +45,6 @@
 #Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
 <br>
-<hr>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaravanarajuR&theme=dark" alt="GitHub Streak"></a>
-
-<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&locale=en" alt="saravanarajur" /></p>
 <br>
 <hr>
