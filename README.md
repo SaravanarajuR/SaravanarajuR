@@ -39,6 +39,10 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 badge">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
 <img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="Babel badge">
+<div style="background-color: #c2e0c6; border: 1px solid #3b704f; border-radius: 3px; padding: 5px;">
+  <img src="https://img.shields.io/badge/JSS-GitHub%20README-blue" alt="JSS GitHub README" style="vertical-align: middle;">
+  <span style="color: #3b704f; font-size: 14px; font-weight: bold; margin-left: 5px; vertical-align: middle;">Label</span>
+</div>
 
 </p>
 <hr>
