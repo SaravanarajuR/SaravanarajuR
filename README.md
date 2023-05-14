@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
 <img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="Babel badge">
  <a href="https://github.com/" alt="JSS">
-  <img src="https://img.shields.io/badge/JSS-Plastic-blue.svg?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/JSS-Plastic-blue.svg?style=flat-square&logo=J" />
 </a>
 
 
