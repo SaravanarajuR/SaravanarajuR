@@ -1,58 +1,75 @@
-<h1 align="center">Hi there 👋, This is Saravana</h1>
-<h3 align="center">A passionate Full Stack Developer(MERN)</h3>
+<h1 align="center">Saravana Raju</h1>
+<h3 align="center">Full Stack Developer · MERN Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanarajur&label=Profile%20views&color=76b1d5&style=plastic" alt="SaravanarajuR" /> </p>
-
-
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- 🌱 I’m currently learning **Advanced Concepts of React and Rust**
-
-- 🔍 Find my projects here - https://replit.com/@SaravanaRajuR
-
-- 💓 .... 🎮 Gamer
-
-- 💬 Ask me about **react, node, Javascript**
-
-- 📫 How to reach me **saravanarajur100@gmail.com**
-
-- ⚡ Fun fact **Music is the best companion**
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saravnar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
-<a href="https://instagram.com/saravana._______/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
-
-
-
-
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="nodejs" /> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" /> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="reactnative" /> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="c" /> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="python" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> <a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" alt="eslint" /> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="tensorflow" /> </a>
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++ badge">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 badge">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 badge">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
-<img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="Babel badge">
- <a href="https://github.com/" alt="JSS">
-  <img src="https://img.shields.io/badge/JSS-Plastic-blue.svg?style=flat-square&logo=J" />
-</a>
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saravanarajur&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<hr>
-#Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&show_icons=true&locale=en&layout=compact" alt="saravanarajur" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&locale=en" alt="saravanarajur" /></p>
-<br>
-<hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&theme=dark&hide_border=true" alt="GitHub Streak" />
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saravanarajur" alt="saravanarajur" /></a> </p>
-<br>
+
+---
+
+### About Me
+
+- 🌱 Currently leveling up in **Advanced React** and **Rust**
+- 🔨 Building projects at [replit.com/@SaravanaRajuR](https://replit.com/@SaravanaRajuR)
+- 💬 Ask me about **React**, **Node.js**, or **JavaScript**
+- 📫 Reach me at **saravanarajur100@gmail.com**
+- 🎮 Gamer at heart · 🎵 Music is the best companion
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/saravnar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/saravana._______/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:saravanarajur100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
