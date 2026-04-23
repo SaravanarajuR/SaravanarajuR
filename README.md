@@ -1,6 +1,5 @@
 <h1 align="center">Saravana Raju</h1>
 <h3 align="center">Full Stack Developer · MERN Stack</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saravanarajur&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -52,8 +51,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
 </p>
 
+<!-- ✅ FIXED: switched from herokuapp (down) to vercel mirror -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- ✅ NEW: Activity graph (the green contribution heatmap) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
