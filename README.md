@@ -51,14 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
 </p>
 
-<!-- ✅ FIXED: switched from herokuapp (down) to vercel mirror -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ✅ NEW: Activity graph (the green contribution heatmap) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&area_color=0e75b6&hide_border=true" alt="Contribution Graph" />
+  <img src="assets/contributions.png" alt="Contribution Heatmap" />
 </p>
 
 ---
