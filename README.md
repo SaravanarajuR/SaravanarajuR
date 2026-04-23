@@ -58,7 +58,7 @@
 
 <!-- ✅ NEW: Activity graph (the green contribution heatmap) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&area_color=0e75b6&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
