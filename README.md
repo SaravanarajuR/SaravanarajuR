@@ -23,9 +23,6 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
 
@@ -35,10 +32,6 @@
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
 
@@ -51,12 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
 </p>
 
-<!-- ✅ FIXED: switched from herokuapp (down) to vercel mirror -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ✅ NEW: Activity graph (the green contribution heatmap) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
