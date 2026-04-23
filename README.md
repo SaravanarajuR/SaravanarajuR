@@ -47,16 +47,18 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaravanarajuR&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaravanarajuR&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
 </p>
 
+<!-- ✅ FIXED: switched from herokuapp (down) to vercel mirror -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=SaravanarajuR&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- ✅ NEW: Activity graph (the green contribution heatmap) -->
 <p align="center">
-  <img src="assets/contributions.png" alt="Contribution Heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
