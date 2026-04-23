@@ -9,7 +9,6 @@
 ### About Me
 
 - 🌱 Currently leveling up in **Advanced React** and **Rust**
-- 🔨 Building projects at [replit.com/@SaravanaRajuR](https://replit.com/@SaravanaRajuR)
 - 💬 Ask me about **React**, **Node.js**, or **JavaScript**
 - 📫 Reach me at **saravanarajur100@gmail.com**
 - 🎮 Gamer at heart · 🎵 Music is the best companion
