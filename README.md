@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravanarajuR&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/SaravanarajuR" alt="GitHub Heatmap" />
 </p>
 
 ---
